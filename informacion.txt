@@ -19,3 +19,11 @@ pip install streamlit textblob SpeechRecognition pyaudio
 
 - Esto ser nos abrirá en;
 http://localhost:8501/
+
+
+
+streamlit
+pandas
+numpy
+plotly
+textblob
